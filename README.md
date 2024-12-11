@@ -5,12 +5,8 @@ This project demonstrates **Exploratory Data Analysis (EDA)** on a credit datase
 
 The project involves exhaustive data preprocessing, visualization, and analysis. Finally, a **Logistic Regression model** is trained to verify the effectiveness of the data preprocessing steps.
 
----
-
 ## Important Note
 Please **download the raw code file** to run this project locally. The file cannot render properly on GitHub due to the inclusion of multiple charts and images.
-
----
 
 ## Project Workflow
 
@@ -39,8 +35,6 @@ Please **download the raw code file** to run this project locally. The file cann
 7. **Logistic Regression Modeling:**
     - Logistic Regression is applied to predict the **NAME_CONTRACT_STATUS** of the previous application.
 
----
-
 ## Logistic Regression Model Results
 
 - **Output Classes:** [\"Approved\", \"Canceled\", \"Refused\", \"Unused offer\"]
@@ -52,15 +46,12 @@ Please **download the raw code file** to run this project locally. The file cann
   - **Recall:** >= 0.98 (for all classes)
   - **Macro ROC AUC:** 0.998
 
----
-
 ## Key Features of the Project
 - Comprehensive preprocessing for handling missing values, outliers, and categorical data.
 - Insightful visualizations for better data understanding.
 - Advanced feature selection and dimensionality reduction techniques.
 - High-performing Logistic Regression model with exceptional metrics.
 
----
 
 ## Future Scope
 - Extending analysis to include additional machine learning models.
